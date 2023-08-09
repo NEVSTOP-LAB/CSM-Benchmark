@@ -14,6 +14,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Match Pattern vs Match Reg Pattern.vi" Type="VI" URL="../Match Pattern vs Match Reg Pattern.vi"/>
+		<Item Name="trimspace non-reentrant vs reentrant vs inline vs no-subvi.vi" Type="VI" URL="../trimspace non-reentrant vs reentrant vs inline vs no-subvi.vi"/>
 		<Item Name="trimspace non-reentrant vs reentrant vs inline.vi" Type="VI" URL="../trimspace non-reentrant vs reentrant vs inline.vi"/>
 		<Item Name="Trimspace without return vs Trimspace with return.vi" Type="VI" URL="../Trimspace without return vs Trimspace with return.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
