@@ -2,6 +2,7 @@
 
  - LabVIEW Version： LabVIEW 2020
  - Benchmark for： [JKI-State-Machine-Plus-Plus](https://github.com/NEVSTOP-LAB/JKI-State-Machine-Plus-Plus)
+ - Benchmark template: [Benchmark Template from NEVSTOP-Programming-Palette](https://github.com/NEVSTOP-LAB/NEVSTOP-Programming-Palette/blob/main/src/user.lib/NEVSTOP-Programming-Palette/Structure/_placeContent/Code%20Benchmark%20Template.vi)
 
 ## Match Pattern vs Match Reg Pattern
 
