@@ -19,6 +19,9 @@
 
 ## Array Parameter Size
 
+10k U32 Data，100 Times, Cache from 1M to 100M Byte
+
 Size litte impact to read/write spead.
 
-![image](https://github.com/NEVSTOP-LAB/JKISMPP-Benchmark/assets/8196752/1ff5f5ae-8efe-4899-b10d-330992c83c57)
+![image](https://github.com/NEVSTOP-LAB/JKISMPP-Benchmark/assets/8196752/671a7189-fa22-46ac-a333-fa1cede7315a)
+
