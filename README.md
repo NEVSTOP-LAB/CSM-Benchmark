@@ -15,3 +15,10 @@
 `inline` faster ~`2` times than `non-reentrant`,`reentrant`, (only one instance) 
 
 ![image](https://github.com/NEVSTOP-LAB/JKISMPP-Benchmark/assets/8196752/b90eeb8f-a6be-452f-8e37-43dc5bcc2606)
+
+
+## Array Parameter Size
+
+Size litte impact to read/write spead.
+
+![image](https://github.com/NEVSTOP-LAB/JKISMPP-Benchmark/assets/8196752/1ff5f5ae-8efe-4899-b10d-330992c83c57)
