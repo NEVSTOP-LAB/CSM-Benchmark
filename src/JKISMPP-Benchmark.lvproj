@@ -13,12 +13,14 @@
 		<Item Name="_support" Type="Folder" URL="../_support">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Array Parameter Size.vi" Type="VI" URL="../Array Parameter Size.vi"/>
 		<Item Name="Match Pattern vs Match Reg Pattern.vi" Type="VI" URL="../Match Pattern vs Match Reg Pattern.vi"/>
 		<Item Name="trimspace non-reentrant vs reentrant vs inline vs no-subvi.vi" Type="VI" URL="../trimspace non-reentrant vs reentrant vs inline vs no-subvi.vi"/>
 		<Item Name="trimspace non-reentrant vs reentrant vs inline.vi" Type="VI" URL="../trimspace non-reentrant vs reentrant vs inline.vi"/>
 		<Item Name="Trimspace without return vs Trimspace with return.vi" Type="VI" URL="../Trimspace without return vs Trimspace with return.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
+				<Item Name="JKISM++ MassData Parameter Support.lvlib" Type="Library" URL="/&lt;userlib&gt;/_NEVSTOP/JKI State Machine++/addons/MassData-Parameter/JKISM++ MassData Parameter Support.lvlib"/>
 				<Item Name="Tick Count (ms)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/time/time.llb/Tick Count (ms)__ogtk.vi"/>
 			</Item>
 		</Item>
