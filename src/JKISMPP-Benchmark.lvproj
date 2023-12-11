@@ -15,6 +15,7 @@
 		</Item>
 		<Item Name="Array Parameter Size.vi" Type="VI" URL="../Array Parameter Size.vi"/>
 		<Item Name="RandomFlag vs UUID Flag.vi" Type="VI" URL="../RandomFlag vs UUID Flag.vi"/>
+		<Item Name="Test Random Flag will repeat or not.vi" Type="VI" URL="../Test Random Flag will repeat or not.vi"/>
 		<Item Name="trimspace non-reentrant vs reentrant vs inline vs no-subvi.vi" Type="VI" URL="../trimspace non-reentrant vs reentrant vs inline vs no-subvi.vi"/>
 		<Item Name="trimspace non-reentrant vs reentrant vs inline.vi" Type="VI" URL="../trimspace non-reentrant vs reentrant vs inline.vi"/>
 		<Item Name="Trimspace without return vs Trimspace with return.vi" Type="VI" URL="../Trimspace without return vs Trimspace with return.vi"/>
