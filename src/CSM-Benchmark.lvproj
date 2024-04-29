@@ -14,6 +14,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Array Parameter Size.vi" Type="VI" URL="../Array Parameter Size.vi"/>
+		<Item Name="Benchmark Massdata.vi" Type="VI" URL="../Benchmark Massdata.vi"/>
 		<Item Name="RandomFlag vs UUID Flag.vi" Type="VI" URL="../RandomFlag vs UUID Flag.vi"/>
 		<Item Name="Test Random Flag will repeat or not.vi" Type="VI" URL="../Test Random Flag will repeat or not.vi"/>
 		<Item Name="trimspace non-reentrant vs reentrant vs inline vs no-subvi.vi" Type="VI" URL="../trimspace non-reentrant vs reentrant vs inline vs no-subvi.vi"/>
@@ -23,6 +24,7 @@
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Communicable State Machine.lvlib" Type="Library" URL="/&lt;userlib&gt;/_NEVSTOP/Communicable State Machine(CSM)/Communicable State Machine.lvlib"/>
 				<Item Name="CSM MassData Parameter Support.lvlib" Type="Library" URL="/&lt;userlib&gt;/_NEVSTOP/Communicable State Machine(CSM)/addons/MassData-Parameter/CSM MassData Parameter Support.lvlib"/>
+				<Item Name="Generate UUID_nevstop.vi" Type="VI" URL="/&lt;userlib&gt;/NEVSTOP-Programming-Palette/String/Generate UUID_nevstop.vi"/>
 				<Item Name="Tick Count (ms)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/time/time.llb/Tick Count (ms)__ogtk.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
