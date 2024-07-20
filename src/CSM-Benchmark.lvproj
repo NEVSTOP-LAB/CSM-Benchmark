@@ -15,6 +15,7 @@
 		</Item>
 		<Item Name="Array Parameter Size.vi" Type="VI" URL="../Array Parameter Size.vi"/>
 		<Item Name="Benchmark Massdata.vi" Type="VI" URL="../Benchmark Massdata.vi"/>
+		<Item Name="Format timestamp into string vs Get Time String.vi" Type="VI" URL="../Format timestamp into string vs Get Time String.vi"/>
 		<Item Name="RandomFlag vs UUID Flag.vi" Type="VI" URL="../RandomFlag vs UUID Flag.vi"/>
 		<Item Name="Test Random Flag will repeat or not.vi" Type="VI" URL="../Test Random Flag will repeat or not.vi"/>
 		<Item Name="trimspace non-reentrant vs reentrant vs inline vs no-subvi.vi" Type="VI" URL="../trimspace non-reentrant vs reentrant vs inline vs no-subvi.vi"/>
