@@ -15,6 +15,8 @@
 		</Item>
 		<Item Name="Array Parameter Size.vi" Type="VI" URL="../Array Parameter Size.vi"/>
 		<Item Name="Benchmark Massdata.vi" Type="VI" URL="../Benchmark Massdata.vi"/>
+		<Item Name="Communicable State Machine.lvlib" Type="Library" URL="/&lt;userlib&gt;/_NEVSTOP/Communicable State Machine(CSM)/Communicable State Machine.lvlib"/>
+		<Item Name="Enum To String Method.vi" Type="VI" URL="../Enum To String Method.vi"/>
 		<Item Name="Format timestamp into string vs Get Time String.vi" Type="VI" URL="../Format timestamp into string vs Get Time String.vi"/>
 		<Item Name="RandomFlag vs UUID Flag.vi" Type="VI" URL="../RandomFlag vs UUID Flag.vi"/>
 		<Item Name="Test Random Flag will repeat or not.vi" Type="VI" URL="../Test Random Flag will repeat or not.vi"/>
@@ -23,7 +25,6 @@
 		<Item Name="Trimspace without return vs Trimspace with return.vi" Type="VI" URL="../Trimspace without return vs Trimspace with return.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
-				<Item Name="Communicable State Machine.lvlib" Type="Library" URL="/&lt;userlib&gt;/_NEVSTOP/Communicable State Machine(CSM)/Communicable State Machine.lvlib"/>
 				<Item Name="CSM MassData Parameter Support.lvlib" Type="Library" URL="/&lt;userlib&gt;/_NEVSTOP/Communicable State Machine(CSM)/addons/MassData-Parameter/CSM MassData Parameter Support.lvlib"/>
 				<Item Name="Generate UUID_nevstop.vi" Type="VI" URL="/&lt;userlib&gt;/NEVSTOP-Programming-Palette/String/Generate UUID_nevstop.vi"/>
 				<Item Name="Tick Count (ms)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/time/time.llb/Tick Count (ms)__ogtk.vi"/>
